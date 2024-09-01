@@ -1,0 +1,30 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/neoplastic-lambert-eaton-syndrome---secondary.py
+inputModule3:
+  class: File
+  path: python/lambert-eaton-syndrome-classified---secondary.py
+inputModule4:
+  class: File
+  path: python/lambert-eaton-syndrome-unspecified---secondary.py
+inputModule5:
+  class: File
+  path: python/other-lambert-eaton-syndrome---secondary.py
+inputModule6:
+  class: File
+  path: python/lamberteaton---secondary.py
+inputModule7:
+  class: File
+  path: python/lambert-eaton-syndrome-eatonlambert---secondary.py
+inputModule8:
+  class: File
+  path: python/lambert-eaton-syndrome-underlying---secondary.py
+inputModule9:
+  class: File
+  path: python/output-cases.py
